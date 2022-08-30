@@ -11,7 +11,7 @@ The private collection of multiple statistics from a  population is a fundamenta
 -
 
 ## Datasets
-The [datasets](https://github.com/hharcolezi/risks-ldp/tree/main/datasets) folder has the following (pre-processed) datastes.
+The [datasets](https://github.com/hharcolezi/risks-ldp/tree/main/datasets) folder has the following (pre-processed) datasets.
 - [ACSEmployement](https://github.com/zykls/folktables)
 - [Adult](https://archive.ics.uci.edu/ml/datasets/adult)
 
