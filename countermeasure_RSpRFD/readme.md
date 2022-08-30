@@ -1,4 +1,4 @@
-Countermeasure solution Random Sampling Plus Realistic Fake Data (RS+RFD): Analysis of utility and attribute inference risk.
+Countermeasure solution Random Sampling Plus Realistic Fake Data (RS+RFD): Analysis of utility (Section 5.2.2) and attribute inference risk (Section 5.2.3).
 
 - The [1_RS+RFD_vs_RS+FD_ACSEmployement.ipynb](https://github.com/hharcolezi/risks-ldp/blob/main/countermeasure_RSpRFD/1_RS%2BRFD_vs_RS%2BFD_ACSEmployement.ipynb) Jupyter notebook has the experiments on multidimensional frequency estimation with the ACSEmployement dataset.
 - The [2_NK_AIF_Attack_RS+RFD_ACSEmployement.ipynb](https://github.com/hharcolezi/risks-ldp/blob/main/countermeasure_RSpRFD/2_NK_AIF_Attack_RS+RFD_ACSEmployement.ipynb) Jupyter notebook has the experiments on attribute inference attack (No Knowledge Model - NK) to the RS+RFD solution with the ACSEmployement dataset.
