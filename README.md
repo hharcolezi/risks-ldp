@@ -1,4 +1,4 @@
-# On the Risks of Collecting Multidimensional Data\\Under Local Differential Privacy
+# On the Risks of Collecting Multidimensional Data Under Local Differential Privacy
 
 Héber H. Arcolezi, Sébastien Gambs, Jean-François Couchot, Catuscia Palamidessi. "On the Risks of Collecting Multidimensional Data\\Under Local Differential Privacy" (2022). [Full Version](https://hharcolezi.github.io/).
 
