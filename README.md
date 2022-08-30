@@ -13,3 +13,9 @@ The private collection of multiple statistics from a  population is a fundamenta
 ## Datasets
 - [ACSEmployement](https://github.com/zykls/folktables);
 - [Adult](https://archive.ics.uci.edu/ml/datasets/adult).
+
+## Contact
+For any question, please contact [Héber H. Arcolezi](https://hharcolezi.github.io/): heber.hwang-arcolezi [at] inria.fr
+
+## License
+[MIT](https://github.com/hharcolezi/risks-ldp/blob/main/LICENSE)
