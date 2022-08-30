@@ -1,4 +1,4 @@
-## On the Risks of Collecting Multidimensional Data Under Local Differential Privacy
+## On the Risks of Collecting Multidimensional Data Under LDP
 
 [Héber H. Arcolezi](https://hharcolezi.github.io/), [Sébastien Gambs](https://sebastiengambs.openum.ca/), [Jean-François Couchot](https://members.femto-st.fr/jf-couchot/en), [Catuscia Palamidessi](http://www.lix.polytechnique.fr/Labo/Catuscia.Palamidessi/). "On the Risks of Collecting Multidimensional Data Under Local Differential Privacy" (2022). [Full Version]().
 
