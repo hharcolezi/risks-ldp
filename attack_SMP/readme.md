@@ -1,4 +1,4 @@
-Re-identification risks of the SMP solution.
+Re-identification risks of the SMP solution (Section 4.2).
 
 - The [0_Analytical_Plausible_Deniability_Multiple_Collections](https://github.com/hharcolezi/risks-ldp/blob/main/attack_SMP/0_Analytical_Plausible_Deniability_Multiple_Collections.ipynb) Jupyter notebook has the analytical analysis on the "plausible deniability" of LDP protocols in multiple collections.
 - The following Jupyter notebook has the experiments on re-identification attack (full knowledge) to the SMP solution with the Adult dataset:
