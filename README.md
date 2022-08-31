@@ -18,11 +18,11 @@ The [datasets](https://github.com/hharcolezi/risks-ldp/tree/main/datasets) folde
 ## Environment
 I mainly used Python 3 with numpy, pandas, numba, and ray libaries. The versions I use are listed below:
 
-Python 3.8.8
-Numpy 1.23.1
-Pandas 1.2.4
-Numba 0.53.1
-Ray 1.11.0
+- Python 3.8.8
+- Numpy 1.23.1
+- Pandas 1.2.4
+- Numba 0.53.1
+- Ray 1.11.0
 
 ## Contact
 For any question, please contact [Héber H. Arcolezi](https://hharcolezi.github.io/): heber.hwang-arcolezi [at] inria.fr
