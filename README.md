@@ -1,6 +1,17 @@
 ## On the Risks of Collecting Multidimensional Data Under LDP
 
-[Héber H. Arcolezi](https://hharcolezi.github.io/), [Sébastien Gambs](https://sebastiengambs.openum.ca/), [Jean-François Couchot](https://members.femto-st.fr/jf-couchot/en), [Catuscia Palamidessi](http://www.lix.polytechnique.fr/Labo/Catuscia.Palamidessi/). "On the Risks of Collecting Multidimensional Data Under Local Differential Privacy" (2022). [Full Version](https://github.com/hharcolezi/risks-ldp/blob/main/2022_Full_Version_Risk_LDP_Multidimensional_Data.pdf).
+[Héber H. Arcolezi](https://hharcolezi.github.io/), [Sébastien Gambs](https://sebastiengambs.openum.ca/), [Jean-François Couchot](https://members.femto-st.fr/jf-couchot/en), [Catuscia Palamidessi](http://www.lix.polytechnique.fr/Labo/Catuscia.Palamidessi/). "On the Risks of Collecting Multidimensional Data Under Local Differential Privacy" (2022). https://arxiv.org/abs/2209.01684.
+
+If our codes and work are useful to you, we would appreciate a reference to:
+
+```
+@article{Arcolezi2022,
+  title={On the Risks of Collecting Multidimensional Data Under Local Differential Privacy},
+  author={Arcolezi, Héber H. and Gambs, Sébastien and Couchot, Jean-François and Palamidessi, Catuscia},
+  journal={arXiv preprint arXiv:2209.01684},
+  year={2022}
+}
+```
 
 ## Abstract
 The private collection of multiple statistics from a  population is a fundamental statistical problem. One possible approach to realize this is to rely on the local model of differential privacy (LDP). Numerous LDP protocols have been developed for the task of frequency estimation of single and multiple attributes. These studies mainly focused on improving the utility of the algorithms to ensure the server performs the estimations accurately. In this paper, we investigate privacy threats (re-identification and attribute inference attacks) against LDP protocols for multidimensional data following two state-of-the-art solutions for frequency estimation of multiple attributes. To broaden the scope of our study, we have experimentally assessed five widely used LDP protocols, namely, generalized randomized response, optimal local hashing, subset selection, RAPPOR and optimal unary encoding. In addition, we also propose a countermeasure solution that improves both utility and robustness against the threats we identify. Our contributions can help practitioners aiming to collect users' statistics privately to decide which LDP mechanism best fits their needs.
