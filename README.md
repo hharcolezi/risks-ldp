@@ -1,15 +1,22 @@
 ## On the Risks of Collecting Multidimensional Data Under LDP
 
-[Héber H. Arcolezi](https://hharcolezi.github.io/), [Sébastien Gambs](https://sebastiengambs.openum.ca/), [Jean-François Couchot](https://members.femto-st.fr/jf-couchot/en), [Catuscia Palamidessi](http://www.lix.polytechnique.fr/Labo/Catuscia.Palamidessi/). "On the Risks of Collecting Multidimensional Data Under Local Differential Privacy" (2022). https://arxiv.org/abs/2209.01684.
+[Héber H. Arcolezi](https://hharcolezi.github.io/), [Sébastien Gambs](https://sebastiengambs.openum.ca/), [Jean-François Couchot](https://members.femto-st.fr/jf-couchot/en), [Catuscia Palamidessi](http://www.lix.polytechnique.fr/Labo/Catuscia.Palamidessi/). "On the Risks of Collecting Multidimensional Data Under Local Differential Privacy". PVLDB, 16(5): 1126 - 1139, 2023. doi:10.14778/3579075.3579086.
 
 If our codes and work are useful to you, we would appreciate a reference to:
 
 ```
-@article{Arcolezi2022,
-  title={On the Risks of Collecting Multidimensional Data Under Local Differential Privacy},
-  author={Arcolezi, Héber H. and Gambs, Sébastien and Couchot, Jean-François and Palamidessi, Catuscia},
-  journal={arXiv preprint arXiv:2209.01684},
-  year={2022}
+@article{Arcolezi2023,
+  doi = {10.14778/3579075.3579086},
+  url = {https://doi.org/10.14778/3579075.3579086},
+  year = {2023},
+  month = jan,
+  publisher = {Association for Computing Machinery ({ACM})},
+  volume = {16},
+  number = {5},
+  pages = {1126--1139},
+  author = {H{\'{e}}ber H. Arcolezi and S{\'{e}}bastien Gambs and Jean-Fran{\c{c}}ois Couchot and Catuscia Palamidessi},
+  title = {On the Risks of Collecting Multidimensional Data Under Local Differential Privacy},
+  journal = {Proceedings of the {VLDB} Endowment}
 }
 ```
 
