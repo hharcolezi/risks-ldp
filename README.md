@@ -31,7 +31,8 @@ The [datasets](https://github.com/hharcolezi/risks-ldp/tree/main/datasets) folde
 - [Adult](https://archive.ics.uci.edu/ml/datasets/adult)
 
 ## To Do
-I am slowly cleaning/generalizing the codes + documentation.
+- I am slowly cleaning/generalizing the codes + documentation.
+- Implement RS+RFD in the [multi-freq-ldpy](https://github.com/hharcolezi/multi-freq-ldpy) package.
 
 ## Environment
 I mainly used Python 3 with numpy, pandas, numba, multi-freq-ldpy, and ray libaries. The versions I use are listed below:
