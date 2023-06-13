@@ -1,6 +1,6 @@
 ## On the Risks of Collecting Multidimensional Data Under LDP
 
-[Héber H. Arcolezi](https://hharcolezi.github.io/), [Sébastien Gambs](https://sebastiengambs.openum.ca/), [Jean-François Couchot](https://members.femto-st.fr/jf-couchot/en), [Catuscia Palamidessi](http://www.lix.polytechnique.fr/Labo/Catuscia.Palamidessi/). "On the Risks of Collecting Multidimensional Data Under Local Differential Privacy". PVLDB, 16(5): 1126 - 1139, 2023. doi:10.14778/3579075.3579086.
+[Héber H. Arcolezi](https://hharcolezi.github.io/), [Sébastien Gambs](https://sebastiengambs.openum.ca/), [Jean-François Couchot](https://members.femto-st.fr/jf-couchot/en), [Catuscia Palamidessi](http://www.lix.polytechnique.fr/Labo/Catuscia.Palamidessi/). "On the Risks of Collecting Multidimensional Data Under Local Differential Privacy". PVLDB, 16(5): 1126 - 1139, 2023. doi: [10.14778/3579075.3579086](https://www.vldb.org/pvldb/vol16/p1126-arcolezi.pdf).
 
 If our codes and work are useful to you, we would appreciate a reference to:
 
@@ -30,13 +30,17 @@ The [datasets](https://github.com/hharcolezi/risks-ldp/tree/main/datasets) folde
 - [ACSEmployement](https://github.com/zykls/folktables)
 - [Adult](https://archive.ics.uci.edu/ml/datasets/adult)
 
+## To Do
+I am slowly cleaning/generalizing the codes + documentation.
+
 ## Environment
-I mainly used Python 3 with numpy, pandas, numba, and ray libaries. The versions I use are listed below:
+I mainly used Python 3 with numpy, pandas, numba, multi-freq-ldpy, and ray libaries. The versions I use are listed below:
 
 - Python 3.8.8
 - Numpy 1.23.1
 - Pandas 1.2.4
 - Numba 0.53.1
+- Multi-freq-ldpy 0.2.4
 - Ray 1.11.0
 
 ## Contact
